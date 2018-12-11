@@ -1,7 +1,6 @@
-Line1
-Line2
+Line1/2
+Line2/2
 Line3
-Line4
 Line5
 Line6
 Line7
