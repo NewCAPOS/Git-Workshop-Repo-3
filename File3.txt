@@ -1,6 +1,6 @@
-Line1
-Line2
-Line3
+Line1/3
+Line2/3
+Line3/3
 Line4
 Line5
 Line6
@@ -17,10 +17,4 @@ Line16
 Line17
 Line18
 Line19
-Line20
-Line21
-Line22
-Line23
-Line24
-Line25
-
+Line20/3
